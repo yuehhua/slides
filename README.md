@@ -1,5 +1,6 @@
 # Slides
 
-https://yuehhua.github.io/slides/
-
-* []()
+* [統計概論](https://yuehhua.github.io/slides/intro-to-stats/)
+* [線性迴歸](https://yuehhua.github.io/slides/linear-regression/)
+* [Introduction to Bayesian inference](https://yuehhua.github.io/slides/bayesian-inference/)
+* [Ridge and LASSO regression](https://yuehhua.github.io/slides/ridge-lasso-regression/)
