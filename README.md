@@ -6,3 +6,4 @@
 * [Ridge and LASSO regression](https://yuehhua.github.io/slides/ridge-lasso-regression/)
 * [Neural ODE](https://yuehhua.github.io/slides/neural-ode/)
 * [Attention mechanism](https://yuehhua.github.io/slides/attention/)
+* [Transfer learning](https://yuehhua.github.io/slides/transfer-learning/)
