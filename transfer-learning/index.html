@@ -13809,6 +13809,51 @@ $$
 
 </div>
 </div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Obtain-bases-$b$-from-sparse-encoding-with-unlabeled-data">Obtain bases $b$ from sparse encoding with unlabeled data<a class="anchor-link" href="#Obtain-bases-$b$-from-sparse-encoding-with-unlabeled-data">&#182;</a></h4>$$
+\begin{align}
+\mathop{\arg\min}_{a,b} &amp; \ \ 
+    \sum_i \left\lVert x_u^{(i)} - \sum_j a_j^{(i)}b_j \right\rVert ^2 + \beta \left\lVert a_j^{(i)} \right\rVert_1 \\
+\text{subject to} &amp; \ \ 
+    \left\lVert b_j \right\rVert_2 \le 1
+\end{align}
+$$
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Compute-features-with-labeled-data">Compute features with labeled data<a class="anchor-link" href="#Compute-features-with-labeled-data">&#182;</a></h4>$$
+\hat{a}(x_l^{(i)}) = \mathop{\arg\min}_{a^{(i)}} \left\lVert x_l^{(i)} - \sum_j a_j^{(i)}b_j \right\rVert ^2 + \beta \left\lVert a^{(i)} \right\rVert_1
+$$
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h4 id="Train-supervised-learning-with-$(\hat{a}(x_l^{(i)}),-y^{(i)})$">Train supervised learning with $(\hat{a}(x_l^{(i)}), y^{(i)})$<a class="anchor-link" href="#Train-supervised-learning-with-$(\hat{a}(x_l^{(i)}),-y^{(i)})$">&#182;</a></h4>
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Self-taught-learning">Self-taught learning<a class="anchor-link" href="#Self-taught-learning">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="pics/icml07-selftaughtlearning-2.svg" width="100%"></p>
+
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
