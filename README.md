@@ -7,4 +7,5 @@
 * [Neural ODE](https://yuehhua.github.io/slides/neural-ode/)
 * [Attention mechanism](https://yuehhua.github.io/slides/attention/)
 * [Transfer learning](https://yuehhua.github.io/slides/transfer-learning/)
+* [Foundamental graph theory](https://yuehhua.github.io/slides/graph-theory/)
 * [Introduction to GNN](https://yuehhua.github.io/slides/intro-to-gnn/)
