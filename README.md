@@ -9,3 +9,4 @@
 * [Transfer learning](https://yuehhua.github.io/slides/transfer-learning/)
 * [Foundamental graph theory](https://yuehhua.github.io/slides/graph-theory/)
 * [Introduction to GNN](https://yuehhua.github.io/slides/intro-to-gnn/)
+* [Distance, biology and representation learning](https://yuehhua.github.io/slides/dist-bio-and-repr-learning/)
