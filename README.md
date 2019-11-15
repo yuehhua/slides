@@ -13,4 +13,4 @@
 * [Julia Pattern Matching and Data Structures](https://yuehhua.github.io/slides/julia-pattern-matching-data-structures/)
 * [Julia Language Design and JIT Compiler](https://yuehhua.github.io/slides/julia-language-design-jit-compiler/)
 * [GeometricFlux.jl: Geometric Deep Learning in Julia](https://yuehhua.github.io/slides/geometricflux/)
-
+* [Julia program performance tuning](https://yuehhua.github.io/slides/julia-perf-tuning/)
