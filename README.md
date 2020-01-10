@@ -14,4 +14,4 @@
 * [Julia Language Design and JIT Compiler](https://yuehhua.github.io/slides/julia-language-design-jit-compiler/)
 * [GeometricFlux.jl: Geometric Deep Learning in Julia](https://yuehhua.github.io/slides/geometricflux/)
 * [Julia program performance tuning](https://yuehhua.github.io/slides/julia-perf-tuning/)
-* [Introduction to Geometric Deep Learning with Implementation](https://yuehhua.github.io/slides/jintro-to-gdl/), [pdf](https://github.com/yuehhua/slides/raw/master/intro-to-gdl/intro-to-gdl.pdf)
+* [Introduction to Geometric Deep Learning with Implementation](https://yuehhua.github.io/slides/intro-to-gdl/), [pdf](https://github.com/yuehhua/slides/raw/master/intro-to-gdl/intro-to-gdl.pdf)
