@@ -15,3 +15,4 @@
 * [GeometricFlux.jl: Geometric Deep Learning in Julia](https://yuehhua.github.io/slides/geometricflux/)
 * [Julia program performance tuning](https://yuehhua.github.io/slides/julia-perf-tuning/)
 * [Introduction to Geometric Deep Learning with Implementation](https://yuehhua.github.io/slides/intro-to-gdl/), [pdf](https://github.com/yuehhua/slides/raw/master/intro-to-gdl/intro-to-gdl.pdf)
+* [Attention mechanism](https://yuehhua.github.io/slides/attention-aitech), [pdf](https://github.com/yuehhua/slides/raw/master/attention-aitech/attention.pdf)
