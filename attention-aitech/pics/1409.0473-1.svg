@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="41.69mm" height="56.98mm" viewBox="13543 12286 4169 5698" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="BitstreamVeraSans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1879" descent="476"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="y" horiz-adv-x="1112" d="M 659,-104 C 607,-237 556,-324 507,-365 458,-406 392,-426 309,-426 L 162,-426 162,-272 270,-272 C 321,-272 360,-260 388,-236 416,-212 447,-155 481,-66 L 514,18 61,1120 256,1120 606,244 956,1120 1151,1120 659,-104 Z"/>
+   <glyph unicode="x" horiz-adv-x="1112" d="M 1124,1120 L 719,575 1145,0 928,0 602,440 276,0 59,0 494,586 96,1120 313,1120 610,721 907,1120 1124,1120 Z"/>
+   <glyph unicode="t" horiz-adv-x="715" d="M 375,1438 L 375,1120 754,1120 754,977 375,977 375,369 C 375,278 388,219 413,193 438,167 488,154 565,154 L 754,154 754,0 565,0 C 423,0 325,27 271,80 217,133 190,229 190,369 L 190,977 55,977 55,1120 190,1120 190,1438 375,1438 Z"/>
+   <glyph unicode="s" horiz-adv-x="874" d="M 907,1087 L 907,913 C 855,940 801,960 745,973 689,986 631,993 571,993 480,993 411,979 366,951 320,923 297,881 297,825 297,782 313,749 346,725 379,700 444,677 543,655 L 606,641 C 737,613 830,574 885,523 940,472 967,400 967,309 967,205 926,123 844,62 761,1 648,-29 504,-29 444,-29 382,-23 317,-12 252,0 183,18 111,41 L 111,231 C 179,196 246,169 312,152 378,134 443,125 508,125 595,125 661,140 708,170 755,199 778,241 778,295 778,345 761,383 728,410 694,437 620,462 506,487 L 442,502 C 328,526 246,563 195,613 144,662 119,730 119,817 119,922 156,1004 231,1061 306,1118 412,1147 549,1147 617,1147 681,1142 741,1132 801,1122 856,1107 907,1087 Z"/>
+   <glyph unicode="h" horiz-adv-x="954" d="M 1124,676 L 1124,0 940,0 940,670 C 940,776 919,855 878,908 837,961 775,987 692,987 593,987 514,955 457,892 400,829 371,742 371,633 L 371,0 186,0 186,1556 371,1556 371,946 C 415,1013 467,1064 527,1097 586,1130 655,1147 733,1147 862,1147 959,1107 1025,1028 1091,948 1124,831 1124,676 Z"/>
+   <glyph unicode="T" horiz-adv-x="1297" d="M -6,1493 L 1257,1493 1257,1323 727,1323 727,0 524,0 524,1323 -6,1323 -6,1493 Z"/>
+   <glyph unicode="3" horiz-adv-x="1007" d="M 831,805 C 928,784 1003,741 1058,676 1112,611 1139,530 1139,434 1139,287 1088,173 987,92 886,11 742,-29 555,-29 492,-29 428,-23 362,-11 295,2 227,20 156,45 L 156,240 C 212,207 273,183 340,166 407,149 476,141 549,141 676,141 772,166 839,216 905,266 938,339 938,434 938,522 907,591 846,641 784,690 698,715 588,715 L 414,715 414,881 596,881 C 695,881 771,901 824,941 877,980 903,1037 903,1112 903,1189 876,1248 822,1289 767,1330 689,1350 588,1350 533,1350 473,1344 410,1332 347,1320 277,1301 201,1276 L 201,1456 C 278,1477 350,1493 417,1504 484,1515 547,1520 606,1520 759,1520 881,1485 970,1416 1059,1346 1104,1252 1104,1133 1104,1050 1080,981 1033,924 986,867 918,827 831,805 Z"/>
+   <glyph unicode="2" horiz-adv-x="980" d="M 393,170 L 1098,170 1098,0 150,0 150,170 C 227,249 331,356 464,490 596,623 679,709 713,748 778,821 823,882 849,933 874,983 887,1032 887,1081 887,1160 859,1225 804,1275 748,1325 675,1350 586,1350 523,1350 456,1339 386,1317 315,1295 240,1262 160,1217 L 160,1421 C 241,1454 317,1478 388,1495 459,1512 523,1520 582,1520 737,1520 860,1481 952,1404 1044,1327 1090,1223 1090,1094 1090,1033 1079,975 1056,920 1033,865 991,800 930,725 913,706 860,650 771,558 682,465 556,336 393,170 Z"/>
+   <glyph unicode="1" horiz-adv-x="900" d="M 254,170 L 584,170 584,1309 225,1237 225,1421 582,1493 784,1493 784,170 1114,170 1114,0 254,0 254,170 Z"/>
+   <glyph unicode="-" horiz-adv-x="583" d="M 100,643 L 639,643 639,479 100,479 100,643 Z"/>
+   <glyph unicode="," horiz-adv-x="319" d="M 240,254 L 451,254 451,82 287,-238 158,-238 240,82 240,254 Z"/>
+   <glyph unicode="+" horiz-adv-x="1297" d="M 942,1284 L 942,727 1499,727 1499,557 942,557 942,0 774,0 774,557 217,557 217,727 774,727 774,1284 942,1284 Z"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_2" horiz-adv-x="2048">
+   <font-face font-family="Verdana embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="2037" descent="423"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="α" horiz-adv-x="1006" d="M 1091,0 L 903,0 903,117 C 849,70 793,34 734,8 675,-18 612,-31 543,-31 410,-31 304,20 226,123 147,226 108,368 108,550 108,645 122,729 149,803 176,877 212,940 258,992 303,1043 356,1081 417,1108 477,1135 539,1148 604,1148 663,1148 715,1141 760,1126 805,1111 853,1091 903,1065 L 903,1117 1091,1117 1091,0 Z M 903,275 L 903,911 C 852,934 807,950 767,961 727,971 683,976 636,976 531,976 449,939 390,866 331,793 302,689 302,554 302,421 325,321 370,252 415,183 488,148 588,148 641,148 695,160 750,184 805,207 856,238 903,275 Z"/>
+  </font>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template-57354" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template-10146" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10132" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template-10007" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template-10004" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template-9679" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template-8226" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template-8211" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template-61548" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <g class="Page">
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id3">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13779" y="15570" width="503" height="845"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 13786,15578 L 14274,15578 14274,16407 13786,16407 13786,15578 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id4">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14655" y="15570" width="503" height="845"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 14662,15578 L 15150,15578 15150,16407 14662,16407 14662,15578 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id5">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15531" y="15570" width="503" height="845"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 15538,15578 L 16026,15578 16026,16407 15538,16407 15538,15578 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id6">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17088" y="15570" width="503" height="845"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 17095,15578 L 17583,15578 17583,16407 17095,16407 17095,15578 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id7">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14273" y="15931" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14273,15943 L 14638,15943"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id8">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14471" y="15882" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14541,15943 L 14492,15993 14663,15943 14492,15895 14541,15943 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14541,15943 L 14492,15993 14663,15943 14492,15895 14541,15943 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id9">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15149" y="15931" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 15149,15943 L 15514,15943"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id10">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15347" y="15882" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15417,15943 L 15368,15993 15539,15943 15368,15895 15417,15943 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15417,15943 L 15368,15993 15539,15943 15368,15895 15417,15943 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id11">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16025" y="15931" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 16025,15943 L 16390,15943"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id12">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16223" y="15883" width="215" height="124"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 16292,15943 L 16244,15993 16415,15943 16244,15895 16292,15943 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16292,15943 L 16244,15993 16415,15943 16244,15895 16292,15943 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id13">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16706" y="15931" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 16706,15943 L 17071,15943"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id14">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16904" y="15882" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 16974,15943 L 16925,15993 17096,15943 16925,15895 16974,15943 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15943 L 16925,15993 17096,15943 16925,15895 16974,15943 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id15">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13779" y="16544" width="503" height="844"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 13786,16552 L 14274,16552 14274,17380 13786,17380 13786,16552 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id16">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14655" y="16544" width="503" height="844"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 14662,16552 L 15150,16552 15150,17380 14662,17380 14662,16552 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id17">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15531" y="16544" width="503" height="844"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 15538,16552 L 16026,16552 16026,17380 15538,17380 15538,16552 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id18">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17088" y="16544" width="503" height="844"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 17095,16552 L 17583,16552 17583,17380 17095,17380 17095,16552 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id19">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14291" y="16905" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14656,16917 L 14291,16917"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id20">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14245" y="16855" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14389,16917 L 14438,16868 14267,16917 14438,16966 14389,16917 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14389,16917 L 14438,16868 14267,16917 14438,16966 14389,16917 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id21">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15167" y="16905" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 15532,16917 L 15167,16917"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id22">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15121" y="16855" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15265,16917 L 15314,16868 15143,16917 15314,16966 15265,16917 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15265,16917 L 15314,16868 15143,16917 15314,16966 15265,16917 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id23">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16043" y="16905" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 16408,16917 L 16043,16917"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id24">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15997" y="16855" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 16141,16917 L 16190,16868 16019,16917 16190,16966 16141,16917 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16141,16917 L 16190,16868 16019,16917 16190,16966 16141,16917 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id25">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16724" y="16905" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 17089,16917 L 16724,16917"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id26">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16678" y="16855" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 16823,16917 L 16871,16868 16700,16917 16871,16966 16823,16917 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16823,16917 L 16871,16868 16700,16917 16871,16966 16823,16917 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id27">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13865" y="17441" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="13865" y="17839"><tspan fill="rgb(0,0,0)" stroke="none">x</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id28">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14067" y="17703" width="244" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="14067" y="17927"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id29">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14741" y="17441" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="14741" y="17839"><tspan fill="rgb(0,0,0)" stroke="none">x</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id30">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14943" y="17703" width="244" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="14943" y="17927"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id31">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15617" y="17441" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="15617" y="17839"><tspan fill="rgb(0,0,0)" stroke="none">x</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id32">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15819" y="17703" width="244" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="15819" y="17927"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id33">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17174" y="17441" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="17174" y="17839"><tspan fill="rgb(0,0,0)" stroke="none">x</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id34">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13658" y="15451" width="744" height="2082"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15457 L 13691,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13718,15457 L 13745,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13772,15457 L 13799,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13826,15457 L 13853,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13880,15457 L 13907,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13934,15457 L 13960,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13987,15457 L 14014,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14041,15457 L 14068,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14095,15457 L 14122,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14149,15457 L 14176,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14203,15457 L 14230,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14257,15457 L 14284,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14311,15457 L 14338,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14365,15457 L 14392,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15481 L 14395,15508"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15535 L 14395,15561"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15588 L 14395,15615"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15642 L 14395,15669"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15696 L 14395,15723"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15750 L 14395,15777"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15804 L 14395,15831"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15858 L 14395,15885"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15912 L 14395,15939"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,15966 L 14395,15993"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16020 L 14395,16047"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16074 L 14395,16100"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16127 L 14395,16154"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16181 L 14395,16208"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16235 L 14395,16262"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16289 L 14395,16316"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16343 L 14395,16370"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16397 L 14395,16424"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16451 L 14395,16478"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16505 L 14395,16532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16559 L 14395,16586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16613 L 14395,16639"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16666 L 14395,16693"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16720 L 14395,16747"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16774 L 14395,16801"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16828 L 14395,16855"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16882 L 14395,16909"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16936 L 14395,16963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,16990 L 14395,17017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17044 L 14395,17071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17098 L 14395,17125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17152 L 14395,17178"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17205 L 14395,17232"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17259 L 14395,17286"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17313 L 14395,17340"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17367 L 14395,17394"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17421 L 14395,17448"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14395,17475 L 14395,17502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14392,17526 L 14365,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14338,17526 L 14311,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14284,17526 L 14257,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14230,17526 L 14204,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14177,17526 L 14150,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14123,17526 L 14096,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14069,17526 L 14042,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14015,17526 L 13988,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13961,17526 L 13934,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13907,17526 L 13880,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13853,17526 L 13826,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13799,17526 L 13772,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13745,17526 L 13718,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13691,17526 L 13665,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17500 L 13664,17473"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17446 L 13664,17419"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17392 L 13664,17365"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17338 L 13664,17311"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17284 L 13664,17257"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17230 L 13664,17203"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17176 L 13664,17149"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17122 L 13664,17095"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17068 L 13664,17041"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,17014 L 13664,16988"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16961 L 13664,16934"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16907 L 13664,16880"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16853 L 13664,16826"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16799 L 13664,16772"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16745 L 13664,16718"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16691 L 13664,16664"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16637 L 13664,16610"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16583 L 13664,16556"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16529 L 13664,16502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16475 L 13664,16449"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16422 L 13664,16395"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16368 L 13664,16341"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16314 L 13664,16287"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16260 L 13664,16233"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16206 L 13664,16179"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16152 L 13664,16125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16098 L 13664,16071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,16044 L 13664,16017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15990 L 13664,15963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15936 L 13664,15910"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15883 L 13664,15856"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15829 L 13664,15802"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15775 L 13664,15748"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15721 L 13664,15694"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15667 L 13664,15640"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15613 L 13664,15586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15559 L 13664,15532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13664,15505 L 13664,15478"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id35">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14534" y="15451" width="744" height="2082"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15457 L 14567,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14594,15457 L 14621,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14648,15457 L 14675,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14702,15457 L 14729,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14756,15457 L 14783,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14810,15457 L 14836,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14863,15457 L 14890,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14917,15457 L 14944,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14971,15457 L 14998,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15025,15457 L 15052,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15079,15457 L 15106,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15133,15457 L 15160,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15187,15457 L 15214,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15241,15457 L 15268,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15481 L 15271,15508"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15535 L 15271,15561"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15588 L 15271,15615"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15642 L 15271,15669"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15696 L 15271,15723"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15750 L 15271,15777"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15804 L 15271,15831"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15858 L 15271,15885"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15912 L 15271,15939"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,15966 L 15271,15993"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16020 L 15271,16047"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16074 L 15271,16100"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16127 L 15271,16154"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16181 L 15271,16208"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16235 L 15271,16262"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16289 L 15271,16316"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16343 L 15271,16370"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16397 L 15271,16424"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16451 L 15271,16478"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16505 L 15271,16532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16559 L 15271,16586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16613 L 15271,16639"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16666 L 15271,16693"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16720 L 15271,16747"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16774 L 15271,16801"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16828 L 15271,16855"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16882 L 15271,16909"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16936 L 15271,16963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,16990 L 15271,17017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17044 L 15271,17071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17098 L 15271,17125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17152 L 15271,17178"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17205 L 15271,17232"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17259 L 15271,17286"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17313 L 15271,17340"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17367 L 15271,17394"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17421 L 15271,17448"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15271,17475 L 15271,17502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15268,17526 L 15241,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15214,17526 L 15187,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15160,17526 L 15133,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15106,17526 L 15080,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15053,17526 L 15026,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14999,17526 L 14972,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14945,17526 L 14918,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14891,17526 L 14864,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14837,17526 L 14810,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14783,17526 L 14756,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14729,17526 L 14702,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14675,17526 L 14648,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14621,17526 L 14594,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14567,17526 L 14541,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17500 L 14540,17473"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17446 L 14540,17419"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17392 L 14540,17365"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17338 L 14540,17311"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17284 L 14540,17257"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17230 L 14540,17203"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17176 L 14540,17149"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17122 L 14540,17095"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17068 L 14540,17041"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,17014 L 14540,16988"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16961 L 14540,16934"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16907 L 14540,16880"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16853 L 14540,16826"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16799 L 14540,16772"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16745 L 14540,16718"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16691 L 14540,16664"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16637 L 14540,16610"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16583 L 14540,16556"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16529 L 14540,16502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16475 L 14540,16449"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16422 L 14540,16395"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16368 L 14540,16341"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16314 L 14540,16287"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16260 L 14540,16233"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16206 L 14540,16179"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16152 L 14540,16125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16098 L 14540,16071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,16044 L 14540,16017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15990 L 14540,15963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15936 L 14540,15910"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15883 L 14540,15856"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15829 L 14540,15802"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15775 L 14540,15748"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15721 L 14540,15694"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15667 L 14540,15640"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15613 L 14540,15586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15559 L 14540,15532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14540,15505 L 14540,15478"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id36">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15410" y="15451" width="744" height="2082"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15457 L 15443,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15470,15457 L 15497,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15524,15457 L 15551,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15578,15457 L 15605,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15632,15457 L 15659,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15686,15457 L 15712,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15739,15457 L 15766,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15793,15457 L 15820,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15847,15457 L 15874,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15901,15457 L 15928,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15955,15457 L 15982,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16009,15457 L 16036,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16063,15457 L 16090,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16117,15457 L 16144,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15481 L 16147,15508"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15535 L 16147,15561"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15588 L 16147,15615"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15642 L 16147,15669"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15696 L 16147,15723"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15750 L 16147,15777"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15804 L 16147,15831"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15858 L 16147,15885"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15912 L 16147,15939"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,15966 L 16147,15993"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16020 L 16147,16047"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16074 L 16147,16100"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16127 L 16147,16154"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16181 L 16147,16208"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16235 L 16147,16262"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16289 L 16147,16316"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16343 L 16147,16370"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16397 L 16147,16424"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16451 L 16147,16478"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16505 L 16147,16532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16559 L 16147,16586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16613 L 16147,16639"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16666 L 16147,16693"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16720 L 16147,16747"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16774 L 16147,16801"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16828 L 16147,16855"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16882 L 16147,16909"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16936 L 16147,16963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,16990 L 16147,17017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17044 L 16147,17071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17098 L 16147,17125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17152 L 16147,17178"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17205 L 16147,17232"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17259 L 16147,17286"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17313 L 16147,17340"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17367 L 16147,17394"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17421 L 16147,17448"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16147,17475 L 16147,17502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16144,17526 L 16117,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16090,17526 L 16063,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16036,17526 L 16009,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15982,17526 L 15956,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15929,17526 L 15902,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15875,17526 L 15848,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15821,17526 L 15794,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15767,17526 L 15740,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15713,17526 L 15686,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15659,17526 L 15632,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15605,17526 L 15578,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15551,17526 L 15524,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15497,17526 L 15470,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15443,17526 L 15417,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17500 L 15416,17473"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17446 L 15416,17419"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17392 L 15416,17365"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17338 L 15416,17311"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17284 L 15416,17257"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17230 L 15416,17203"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17176 L 15416,17149"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17122 L 15416,17095"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17068 L 15416,17041"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,17014 L 15416,16988"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16961 L 15416,16934"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16907 L 15416,16880"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16853 L 15416,16826"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16799 L 15416,16772"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16745 L 15416,16718"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16691 L 15416,16664"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16637 L 15416,16610"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16583 L 15416,16556"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16529 L 15416,16502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16475 L 15416,16449"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16422 L 15416,16395"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16368 L 15416,16341"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16314 L 15416,16287"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16260 L 15416,16233"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16206 L 15416,16179"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16152 L 15416,16125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16098 L 15416,16071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,16044 L 15416,16017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15990 L 15416,15963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15936 L 15416,15910"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15883 L 15416,15856"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15829 L 15416,15802"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15775 L 15416,15748"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15721 L 15416,15694"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15667 L 15416,15640"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15613 L 15416,15586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15559 L 15416,15532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15416,15505 L 15416,15478"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id37">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16968" y="15451" width="744" height="2082"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15457 L 17001,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17028,15457 L 17055,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17082,15457 L 17109,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17136,15457 L 17163,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17190,15457 L 17217,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17244,15457 L 17270,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17297,15457 L 17324,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17351,15457 L 17378,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17405,15457 L 17432,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17459,15457 L 17486,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17513,15457 L 17540,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17567,15457 L 17594,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17621,15457 L 17648,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17675,15457 L 17702,15457"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15481 L 17705,15508"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15535 L 17705,15561"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15588 L 17705,15615"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15642 L 17705,15669"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15696 L 17705,15723"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15750 L 17705,15777"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15804 L 17705,15831"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15858 L 17705,15885"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15912 L 17705,15939"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,15966 L 17705,15993"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16020 L 17705,16047"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16074 L 17705,16100"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16127 L 17705,16154"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16181 L 17705,16208"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16235 L 17705,16262"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16289 L 17705,16316"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16343 L 17705,16370"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16397 L 17705,16424"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16451 L 17705,16478"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16505 L 17705,16532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16559 L 17705,16586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16613 L 17705,16639"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16666 L 17705,16693"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16720 L 17705,16747"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16774 L 17705,16801"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16828 L 17705,16855"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16882 L 17705,16909"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16936 L 17705,16963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,16990 L 17705,17017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17044 L 17705,17071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17098 L 17705,17125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17152 L 17705,17178"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17205 L 17705,17232"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17259 L 17705,17286"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17313 L 17705,17340"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17367 L 17705,17394"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17421 L 17705,17448"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17705,17475 L 17705,17502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17702,17526 L 17675,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17648,17526 L 17621,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17594,17526 L 17567,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17540,17526 L 17514,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17487,17526 L 17460,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17433,17526 L 17406,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17379,17526 L 17352,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17325,17526 L 17298,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17271,17526 L 17244,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17217,17526 L 17190,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17163,17526 L 17136,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17109,17526 L 17082,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17055,17526 L 17028,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17001,17526 L 16975,17526"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17500 L 16974,17473"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17446 L 16974,17419"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17392 L 16974,17365"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17338 L 16974,17311"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17284 L 16974,17257"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17230 L 16974,17203"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17176 L 16974,17149"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17122 L 16974,17095"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17068 L 16974,17041"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,17014 L 16974,16988"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16961 L 16974,16934"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16907 L 16974,16880"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16853 L 16974,16826"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16799 L 16974,16772"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16745 L 16974,16718"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16691 L 16974,16664"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16637 L 16974,16610"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16583 L 16974,16556"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16529 L 16974,16502"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16475 L 16974,16449"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16422 L 16974,16395"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16368 L 16974,16341"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16314 L 16974,16287"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16260 L 16974,16233"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16206 L 16974,16179"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16152 L 16974,16125"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16098 L 16974,16071"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,16044 L 16974,16017"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15990 L 16974,15963"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15936 L 16974,15910"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15883 L 16974,15856"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15829 L 16974,15802"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15775 L 16974,15748"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15721 L 16974,15694"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15667 L 16974,15640"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15613 L 16974,15586"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15559 L 16974,15532"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16974,15505 L 16974,15478"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.ClosedBezierShape">
+   <g id="id38">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15240" y="14234" width="257" height="258"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15490,14362 C 15490,14429 15436,14484 15368,14484 15301,14484 15246,14429 15246,14362 15246,14294 15301,14240 15368,14240 15436,14240 15490,14294 15490,14362 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id39">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17375" y="17703" width="245" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="17376" y="17927"><tspan fill="rgb(0,0,0)" stroke="none">T</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id40">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14021" y="14473" width="1357" height="996"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14029,15458 L 15369,14483"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id41">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15221" y="14468" width="169" height="143"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15289,14542 L 15278,14610 15388,14469 15221,14531 15289,14542 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id42">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15197" y="14456" width="210" height="178"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15289,14542 L 15278,14610 15388,14469 15221,14531 15289,14542 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id43">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14870" y="14477" width="511" height="988"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14881,15458 L 15369,14483"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id44">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15238" y="14442" width="153" height="220"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15325,14571 L 15347,14637 15380,14462 15259,14593 15325,14571 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15325,14571 L 15347,14637 15380,14462 15259,14593 15325,14571 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id45">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15356" y="14478" width="391" height="986"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 15734,15458 L 15368,14483"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id46">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15351" y="14440" width="135" height="222"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15403,14575 L 15466,14604 15359,14461 15373,14638 15403,14575 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15403,14575 L 15466,14604 15359,14461 15373,14638 15403,14575 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id47">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15362" y="14472" width="1960" height="998"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 17315,15458 L 15368,14483"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id48">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15326" y="14462" width="220" height="153"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15456,14527 L 15521,14505 15346,14472 15478,14593 15456,14527 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15456,14527 L 15521,14505 15346,14472 15478,14593 15456,14527 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id49">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15205" y="14125" width="387" height="447"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="386px" font-weight="400"><tspan class="TextPosition" x="15205" y="14481"><tspan fill="rgb(0,0,0)" stroke="none">+</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id50">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14295" y="14617" width="281" height="290"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="238px" font-weight="400"><tspan class="TextPosition" x="14295" y="14854"><tspan fill="rgb(0,0,0)" stroke="none">α</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id51">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14458" y="14749" width="249" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14458" y="14918"><tspan fill="rgb(0,0,0)" stroke="none">t,1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id52">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14561" y="15007" width="267" height="273"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="226px" font-weight="400"><tspan class="TextPosition" x="14561" y="15231"><tspan fill="rgb(0,0,0)" stroke="none">α</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id53">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14716" y="15133" width="232" height="197"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="169px" font-weight="400"><tspan class="TextPosition" x="14716" y="15290"><tspan fill="rgb(0,0,0)" stroke="none">t,2</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id54">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15700" y="15056" width="267" height="273"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="226px" font-weight="400"><tspan class="TextPosition" x="15700" y="15280"><tspan fill="rgb(0,0,0)" stroke="none">α</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id55">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15855" y="15182" width="232" height="197"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="169px" font-weight="400"><tspan class="TextPosition" x="15855" y="15339"><tspan fill="rgb(0,0,0)" stroke="none">t,3</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id56">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16241" y="14685" width="267" height="273"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="Verdana, sans-serif" font-size="226px" font-weight="400"><tspan class="TextPosition" x="16241" y="14909"><tspan fill="rgb(0,0,0)" stroke="none">α</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id57">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14752" y="12895" width="503" height="843"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 14759,12902 L 15247,12902 15247,13730 14759,13730 14759,12902 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id58">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16395" y="14811" width="227" height="197"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="169px" font-weight="400"><tspan class="TextPosition" x="16395" y="14968"><tspan fill="rgb(0,0,0)" stroke="none">t,T</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id59">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14809" y="12286" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="14809" y="12684"><tspan fill="rgb(0,0,0)" stroke="none">y</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id60">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14370" y="13255" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14370,13267 L 14735,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id61">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14568" y="13205" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14638,13268 L 14589,13316 14760,13268 14589,13218 14638,13268 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14638,13268 L 14589,13316 14760,13268 14589,13218 14638,13268 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id62">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15969" y="12895" width="503" height="843"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="14" stroke-linejoin="miter" d="M 15976,12902 L 16464,12902 16464,13730 15976,13730 15976,12902 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id63">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15011" y="12548" width="337" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="15011" y="12772"><tspan fill="rgb(0,0,0)" stroke="none">t-1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id64">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16025" y="12286" width="428" height="502"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="429px" font-weight="400"><tspan class="TextPosition" x="16025" y="12684"><tspan fill="rgb(0,0,0)" stroke="none">y</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id65">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15246" y="13255" width="731" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 15246,13267 L 15976,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id66">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15809" y="13205" width="215" height="125"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15879,13268 L 15830,13316 16001,13268 15830,13218 15879,13268 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15879,13268 L 15830,13316 16001,13268 15830,13218 15879,13268 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.OpenBezierShape">
+   <g id="id67">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15356" y="13256" width="628" height="987"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 15368,14241 C 15368,14241 15379,13807 15489,13632 15598,13460 15977,13267 15977,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id68">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15800" y="13245" width="220" height="154"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15890,13312 L 15869,13377 15999,13256 15824,13291 15890,13312 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15890,13312 L 15869,13377 15999,13256 15824,13291 15890,13312 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id69">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16463" y="13255" width="366" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 16463,13267 L 16828,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id70">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16661" y="13205" width="215" height="124"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 16730,13268 L 16682,13316 16853,13268 16682,13218 16730,13268 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 16730,13268 L 16682,13316 16853,13268 16682,13218 16730,13268 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id71">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16227" y="12548" width="244" height="281"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="243px" font-weight="400"><tspan class="TextPosition" x="16227" y="12772"><tspan fill="rgb(0,0,0)" stroke="none">t</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id72">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13898" y="16796" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="13898" y="17092"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id73">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13908" y="16765" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 13908,16771 L 14151,16771"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id74">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13885" y="16739" width="109" height="65"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 13957,16771 L 13982,16746 13896,16771 13982,16796 13957,16771 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 13957,16771 L 13982,16746 13896,16771 13982,16796 13957,16771 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id75">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14093" y="16988" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14093" y="17157"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id76">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14779" y="16796" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="14779" y="17092"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id77">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14784" y="16765" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14784,16771 L 15027,16771"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id78">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14761" y="16739" width="109" height="65"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14832,16771 L 14858,16746 14772,16771 14858,16796 14832,16771 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 14832,16771 L 14858,16746 14772,16771 14858,16796 14832,16771 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id79">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14974" y="16988" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14974" y="17157"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id80">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15660" y="16796" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="15660" y="17092"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id81">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15660" y="16765" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15660,16771 L 15903,16771"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id82">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15636" y="16739" width="110" height="65"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15709,16771 L 15734,16746 15647,16771 15734,16796 15709,16771 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 15709,16771 L 15734,16746 15647,16771 15734,16796 15709,16771 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id83">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15855" y="16988" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="15855" y="17157"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id84">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17188" y="16796" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="17188" y="17092"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id85">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17217" y="16765" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17217,16771 L 17460,16771"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id86">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17194" y="16739" width="108" height="65"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 17267,16771 L 17291,16746 17205,16771 17291,16796 17267,16771 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 17267,16771 L 17291,16746 17205,16771 17291,16796 17267,16771 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id87">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17382" y="16988" width="180" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="17383" y="17157"><tspan fill="rgb(0,0,0)" stroke="none">T</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id88">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13898" y="15822" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="13898" y="16118"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id89">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13899" y="15791" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 14142,15797 L 13899,15797"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id90">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14058" y="15767" width="109" height="64"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14093,15797 L 14069,15823 14155,15797 14069,15773 14093,15797 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 14093,15797 L 14069,15823 14155,15797 14069,15773 14093,15797 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id91">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14093" y="16015" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14093" y="16184"><tspan fill="rgb(0,0,0)" stroke="none">1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id92">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14779" y="15822" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="14779" y="16118"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id93">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14775" y="15791" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15018,15797 L 14775,15797"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id94">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14934" y="15767" width="109" height="64"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 14969,15797 L 14945,15823 15031,15797 14945,15773 14969,15797 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 14969,15797 L 14945,15823 15031,15797 14945,15773 14969,15797 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id95">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14974" y="16015" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14974" y="16184"><tspan fill="rgb(0,0,0)" stroke="none">2</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id96">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15660" y="15822" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="15660" y="16118"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id97">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15651" y="15791" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 15894,15797 L 15651,15797"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id98">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15810" y="15767" width="109" height="64"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 15845,15797 L 15821,15823 15907,15797 15821,15773 15845,15797 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 15845,15797 L 15821,15823 15907,15797 15821,15773 15845,15797 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id99">
+    <rect class="BoundingBox" stroke="none" fill="none" x="15855" y="16015" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="15855" y="16184"><tspan fill="rgb(0,0,0)" stroke="none">3</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id100">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17188" y="15822" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="17188" y="16118"><tspan fill="rgb(0,0,0)" stroke="none">h</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id101">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17208" y="15791" width="244" height="13"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="12" stroke-linejoin="miter" d="M 17451,15797 L 17208,15797"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.PolyPolygonShape">
+   <g id="id102">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17366" y="15766" width="110" height="65"/>
+    <path fill="rgb(0,0,0)" stroke="none" d="M 17404,15797 L 17378,15823 17464,15797 17378,15773 17404,15797 Z"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="6" stroke-linejoin="miter" d="M 17404,15797 L 17378,15823 17464,15797 17378,15773 17404,15797 Z"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id103">
+    <rect class="BoundingBox" stroke="none" fill="none" x="13543" y="13255" width="609" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 14151,13267 L 14124,13267"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 13930,13267 L 13903,13267"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 13709,13267 L 13682,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.LineShape">
+   <g id="id104">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16901" y="13255" width="609" height="25"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 17509,13267 L 17482,13267"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 17288,13267 L 17261,13267"/>
+    <path fill="none" stroke="rgb(0,0,0)" stroke-width="24" stroke-linejoin="miter" d="M 17067,13267 L 17040,13267"/>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id105">
+    <rect class="BoundingBox" stroke="none" fill="none" x="17382" y="16015" width="180" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="17383" y="16184"><tspan fill="rgb(0,0,0)" stroke="none">T</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id106">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14784" y="13048" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="14784" y="13344"><tspan fill="rgb(0,0,0)" stroke="none">s</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id107">
+    <rect class="BoundingBox" stroke="none" fill="none" x="14979" y="13240" width="257" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="14979" y="13409"><tspan fill="rgb(0,0,0)" stroke="none">t-1</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id108">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16098" y="13048" width="315" height="375"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="316px" font-weight="400"><tspan class="TextPosition" x="16098" y="13344"><tspan fill="rgb(0,0,0)" stroke="none">s</tspan></tspan></tspan></text>
+   </g>
+  </g>
+  <g class="com.sun.star.drawing.TextShape">
+   <g id="id109">
+    <rect class="BoundingBox" stroke="none" fill="none" x="16293" y="13240" width="179" height="214"/>
+    <text class="TextShape"><tspan class="TextParagraph" font-family="BitstreamVeraSans, sans-serif" font-size="180px" font-weight="400"><tspan class="TextPosition" x="16293" y="13409"><tspan fill="rgb(0,0,0)" stroke="none">t</tspan></tspan></tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
