@@ -1,3 +1,4 @@
 project/
 project2/
-.odg
+*.odg
+*.ipynb
