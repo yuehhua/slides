@@ -9,7 +9,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 
-<title>connection-graph-to-ml slides</title>
+<title>why-need-graph-in-ml slides</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13569,8 +13569,8 @@ $$
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="Graph-convolution-layer-(graph-spectral-filtering)">Graph convolution layer (graph spectral filtering)<a class="anchor-link" href="#Graph-convolution-layer-(graph-spectral-filtering)">&#182;</a></h4>$$
-x_i \xrightarrow{U^T} \xi_i \xrightarrow{&lt;\cdot,\cdot&gt;} \xi_i \theta \xrightarrow{U} x_j \\
-x_j^{t+1} = \sigma (\tilde{A}x_i^t) = \sigma (\sum_{i} U \Theta_{i,j} U^T x_i^t)
+x_i^t \xrightarrow{U^T} \xi_i \xrightarrow{&lt;\cdot,\cdot&gt;} \xi_i \theta \xrightarrow{U} x_i^{t+1} \\
+x_i^{t+1} = \sigma (\tilde{A}x_i^t) = \sigma (\sum_{j} U \Theta_{i,j} U^T x_i^t)
 $$
 </div>
 </div>
