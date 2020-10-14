@@ -18,3 +18,4 @@
 * [Attention mechanism](https://yuehhua.github.io/slides/attention-aitech), [pdf](https://github.com/yuehhua/slides/raw/master/attention-aitech/attention.pdf)
 * [Dimensional reduction - tSNE and UMAP](https://yuehhua.github.io/slides/dimred-tsne-umap-gnn)
 * [生物資訊的降維演算法及視覺化](https://yuehhua.github.io/slides/bioinfo-tsne-umap)
+* [MacroTools.jl](https://yuehhua.github.io/slides/macrotools)
