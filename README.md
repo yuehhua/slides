@@ -20,3 +20,5 @@
 * [生物資訊的降維演算法及視覺化](https://yuehhua.github.io/slides/bioinfo-tsne-umap)
 * [MacroTools.jl](https://yuehhua.github.io/slides/macrotools)
 * [EvolveGCN](https://yuehhua.github.io/slides/EvolveGCN/)
+* [How to perform TDD and CI in Julia?](https://yuehhua.github.io/slides/tdd-and-ci-in-julia/)
+* 
