@@ -21,4 +21,4 @@
 * [MacroTools.jl](https://yuehhua.github.io/slides/macrotools)
 * [EvolveGCN](https://yuehhua.github.io/slides/EvolveGCN/)
 * [How to perform TDD and CI in Julia?](https://yuehhua.github.io/slides/tdd-and-ci-in-julia/)
-* 
+* [你有所不知的 Julia 語言特性 - Julia 到底怎樣比其他語言好？](https://yuehhua.github.io/slides/the-language-feature-you-dont-know/)
